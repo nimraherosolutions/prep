@@ -18,7 +18,7 @@ const Contact =()=> {
           <section id="sBanner" style={{backgroundImage: 'url("images/3q.jpg")'}}>
             <div className="contain">
               <div className="content">
-                <h1>Feel free to ask any question</h1>
+                <h1>Please Feel free to ask any question</h1>
               </div>
             </div>
           </section>
